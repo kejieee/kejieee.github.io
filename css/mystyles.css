@@ -57,3 +57,16 @@ div.jessiedivgrey2{
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.jessieserif{
+    font-family: "Noto Serif TC", serif;
+    font-weight: bold;
+}
+
+.jessiecenter{
+    text-align: center;
+}
+
+.jessiehl{
+    color: red;
+}
