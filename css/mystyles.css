@@ -2,6 +2,10 @@ p{
     color: #3C3C3C;
 }
 
+ul{
+    color: #3C3C3C;
+}
+
 .conan{
     background-color: blueviolet;
 }
@@ -88,7 +92,7 @@ div.jessiedivgrey2{
     height: 50px;
     border-radius: 50%;       /* 圓形 */
     border: none;
-    background-color: #007BFF;
+    background-color: 	#408080;
     color: white;
     font-size: 28px;
     line-height: 50px;        /* 讓箭頭垂直置中 */
@@ -100,5 +104,5 @@ div.jessiedivgrey2{
   }
   
   .backToTop:hover {
-    background-color: #0056b3;
+    background-color: 	#376b6b;
   }
