@@ -1,9 +1,19 @@
+h2{
+  color: #1d2e2e;
+}
+
+h3{
+  color:#1d2e2e;
+}
+
 p{
-    color: #3C3C3C;
+    /*color: #3C3C3C;*/
+    color: #333333;
 }
 
 ul{
-    color: #3C3C3C;
+    /*color: #3C3C3C;*/
+    color: #2f3e3c;
 }
 
 .conan{
@@ -14,45 +24,38 @@ a.jessielink{
     padding: 0px 18px;
     margin: 0px 0px 0px 5px;
     border-radius: 50px;
-    color: cornflowerblue;
+    color:	#66a79b;
 }
 
 a.jessielink:hover{
-    background-color: cornflowerblue;
+    background-color:#66b2b2;
     color: white;
 }
 
 a.jessielink2{
-    color: rgb(54, 102, 191);
+    color:	#339999;
     text-decoration: none;
 }
 
 div.jessiedivgrey{
-    background-color: rgb(239, 244, 252);
+    background-color: #e9f2ef;
     padding: 20px 30px 30px 30px;
     border-radius: 10px;
-    border: 2px solid cornflowerblue;
+    border: 2px solid #b8ccc7;
 }
 
 h4.jessiesmallh4{
     font-size: 20px;
-    color: rgb(54, 102, 191);
+    color: #408080;
 }
 
-div.jessiedivgrey2{
-    background-color: rgb(239, 244, 252);
-    padding: 20px 30px 30px 30px;
-    border-radius: 10px;
-    border: 2px solid cornflowerblue;
-    margin-top: 30px;
-}
 
 .simon{
-    height: 250px;
+    height: 350px;
     overflow: hidden;
     object-fit: cover;
-    margin: 8px 5px;
-    border-radius: 5px;
+    margin: 15px 15px;
+    border-radius: 10px;
 
 }
 
@@ -79,7 +82,6 @@ div.jessiedivgrey2{
 .jessiehl{
     color: rgb(238, 255, 0);
 }
-
 
 .p20{
     padding: 20px;
@@ -109,7 +111,7 @@ div.jessiedivgrey2{
   }
   
   .backToTop:hover {
-    background-color: 	#376b6b;
+    background-color:#336666;
 
   }
 
@@ -176,4 +178,12 @@ div.jessiedivgrey2{
   cursor: pointer;
   border-radius: 8px 8px 0 0;
   text-decoration: none;
+}
+
+.time{
+  color: #587d77;
+}
+
+.namejessie{
+  color:	#5e8b8b;
 }
